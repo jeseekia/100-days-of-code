@@ -26,3 +26,12 @@
 **Thoughts:** I feel good about positioning now that I refreshed my memory. CSS graphics and animations are still a bit foreign to me, but I said I would pick at least a few small projects on those specifically. I do need to make [stream](http://twitch.tv/metadevgirl) effects so I should be able to brainstorm about ideas. I got the basic layout finished for Detroit Ipsum and it was pretty painless so that felt good. I started taking a few notes on Notion and I think I'm going to double down on that.
 
 **Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commits/site-layout)
+
+### Day 4: February 8, 2021
+##### DetroitIpsum
+
+**Today's Progress**: I did some spacing for the main sections and got a lot of the styling done for the header.
+
+**Thoughts:** I started a new job today (vs being off the first few days of the challenge) so I was kind of tired, but I am glad I made some progress. I didn't get done like I originally planned. That's ok. I'll keep working tomorrow!
+
+**Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commit/2d9546d376e1afc99268448ee520ce55e69a19f5)
