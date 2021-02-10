@@ -35,3 +35,12 @@
 **Thoughts:** I started a new job today (vs being off the first few days of the challenge) so I was kind of tired, but I am glad I made some progress. I didn't get done like I originally planned. That's ok. I'll keep working tomorrow!
 
 **Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commit/2d9546d376e1afc99268448ee520ce55e69a19f5)
+
+### Day 5: February 9, 2021
+##### DetroitIpsum
+
+**Today's Progress**: I did minor work on the header.
+
+**Thoughts:** I spent a lot of time researching and trying to understand some of my options. I think I need to get a timer and start timeboxing things.
+
+**Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commit/183c0c2301952ffdd41cc002c0294de97ab199ec)
