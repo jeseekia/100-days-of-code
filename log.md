@@ -44,3 +44,12 @@
 **Thoughts:** I spent a lot of time researching and trying to understand some of my options. I think I need to get a timer and start timeboxing things.
 
 **Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commit/183c0c2301952ffdd41cc002c0294de97ab199ec)
+
+### Day 6: February 10, 2021
+##### DetroitIpsum
+
+**Today's Progress**: I did minor work on the nav.
+
+**Thoughts:** I spent a lot of time researching as well today, but it was very productive time spent. I learned about collapsing margins. I also had some interesting conversation about styling "layout" elements vs "content" elements. I want to go through my [streams](http://twitch.tv/metadevgirl) from this week and clip some of the solved problems and philosophical considerations that I went through so far. (Whether I'll actually take the time to do that is another story. I should probably add a stream marker button to my Stream Deck.) I'm glad I started back at the beginning for this process because I'm getting to dive a layer deeper this time around and learn more about some of the inner workings of different tags and properties rather than just build something that works.
+
+**Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commit/f88268f39ecba1006c4c1e36ad4445454022d5e3)
