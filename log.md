@@ -53,3 +53,12 @@
 **Thoughts:** I spent a lot of time researching as well today, but it was very productive time spent. I learned about collapsing margins. I also had some interesting conversation about styling "layout" elements vs "content" elements. I want to go through my [streams](http://twitch.tv/metadevgirl) from this week and clip some of the solved problems and philosophical considerations that I went through so far. (Whether I'll actually take the time to do that is another story. I should probably add a stream marker button to my Stream Deck.) I'm glad I started back at the beginning for this process because I'm getting to dive a layer deeper this time around and learn more about some of the inner workings of different tags and properties rather than just build something that works.
 
 **Link to work:** [DetroitIpsum Repo](https://github.com/jeseekia/DetroitIpsum/commit/f88268f39ecba1006c4c1e36ad4445454022d5e3)
+
+### Day 7: February 11, 2021
+##### FreeCodeCamp Accessibility and Responsiveness
+
+**Today's Progress**: I covered all of the Applied Accessibility and Responsive Web Design Principles in FreeCodeCamp.
+
+**Thoughts:** I decided to focus on learning today to finish off some more of the material I want to cover. I am surprised how informative the accessibility section was. In my past learning experiences the material was glossed over. The FCC lessons packed a lot of good info into a pretty short module. I have a lot to apply to my current project and it gives me more elements to consider as I design future layouts.
+
+**Link to work:** [Tab be or not tab be: tabindex example](https://codepen.io/jeseekia/pen/wvooYzo)
