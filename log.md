@@ -62,3 +62,31 @@
 **Thoughts:** I decided to focus on learning today to finish off some more of the material I want to cover. I am surprised how informative the accessibility section was. In my past learning experiences the material was glossed over. The FCC lessons packed a lot of good info into a pretty short module. I have a lot to apply to my current project and it gives me more elements to consider as I design future layouts.
 
 **Link to work:** [Tab be or not tab be: tabindex example](https://codepen.io/jeseekia/pen/wvooYzo)
+
+### Day 8: February 12, 2021
+##### FreeCodeCamp Flexbox and DetroitIpsum
+
+**Today's Progress**: I covered all of the Flexbox material in FreeCodeCamp. I also refactored my nav and footer layout for DetroitIpsum.
+
+**Thoughts:** Flexbox was pretty straightforward for me to use. I want to learn about some of the quirks of using width and height with the flex properties as I go. It was simple to refactor my layout.
+
+**Link to work:** [DetroitIpsum](https://github.com/jeseekia/DetroitIpsum/commit/fbd905e47bc3b03b2708a97314adbff9eb39d7c3)
+
+
+### Day 9: February 13, 2021
+##### Flexbox Froggy and DetroitIpsum
+
+**Today's Progress**: I covered all of the [Flexbox Froggy](https://flexboxfroggy.com/). I also refactored my nav and footer layout for DetroitIpsum.
+
+**Thoughts:** I didn't have any issues implementing Flexbox into my project. I did find myself wondering if I was abusing it haha. I would like to have someone do a code review of what I landed on. I pretty much finished up the main layout of DetroitIpsum so I merged my working branch.
+
+**Link to work:** [DetroitIpsum](https://github.com/jeseekia/DetroitIpsum/commit/c85cf0db7cafa5197dcfab3563212fc614f42d4e)
+
+### Day 10: February 14, 2021
+##### FreeCodeCamp CSS Grid, CSS Grid Garden and prep Frieza tribute project
+
+**Today's Progress**: I covered all of the CSS Grid material on FreeCodeCamp. I practiced by finishing [CSS Grid Garden](https://cssgridgarden.com). I also setup my repo to get started on my tribute site for the first FCC project.
+
+**Thoughts:** CSS Grid is pretty dense material, but for the most part everything I covered made sense for me. I liked learning about using the fr unit. I want to get more practice with that. Grid Garden actually helped a bit with practicing some more complicated options for specifying and selecting areas in your grid. I really liked how named grid-template-areas, grid-area, and media queries can be combined for responsive design. I'm looking forward to implementing that in some future projects. I'm done with the material for the Responsive Web Design Certification. I have 5 FCC projects to build before I move on to either JS or DS&A.
+
+**Link to work:** [Frieza](https://github.com/jeseekia/frieza/commit/9839a1d862e0836c3947b216033e96e38aa36ac6)
