@@ -9,9 +9,11 @@
 
 ## Learning Objectives / Goals
 
-* New Frontend portfolio projects
-* New Personal Site/ blog
-* Learn React
+* Improve JavaScript expertise
+* Improve Python expertise
+* Contritube to Open Source coding curriculum
+* New Educational Site
+* Improve in React (TypeScript + nextJS)
 * Learn Data Structures & Algorithms
 * Learn GraphQL
 * Encourage others yayy!!
