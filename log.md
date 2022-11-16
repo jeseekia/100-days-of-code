@@ -3,12 +3,10 @@
 ### Day 1: November 15, 2022
 ##### Python Curriculum and Reveal.JS Codebase
 
-**Today's Progress**: I covered Basic HTML and half of the Basic CSS (up to https://www.freecodecamp.org/learn/responsive-web-design/basic-css/understand-absolute-versus-relative-units) on FreeCodeCamp's curriculum
+**Today's Progress**: I updated some Intro Python materials in RevealJS.
 
-**Thoughts:** The refresher was pretty straightforward as I expected. I did use an attribute selector for what I think is the first time.
+**Thoughts:** I've always known that keeping our Reveal materials up to date was tedious and took a lot of grunt work to do major cleanup. Now I'm really interested in applying some automation and SWE principles to the codebase. Having a tool check for deadlinks in slides for example - that would be nice!
 
-**Link to work:** [A simple web page about kittens](https://codepen.io/jeseekia/pen/wvoGvXK)
+**Link to work:** [Code Diff](https://github.com/girldevelopit/gdi-python/compare/main...fall22-overhaul)
 
-**Link to content:** [A simple web page about kittens](https://codepen.io/jeseekia/pen/wvoGvXK)
-
-
+**Link to content:** [Blog]()
