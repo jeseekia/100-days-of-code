@@ -9,4 +9,16 @@
 
 **Link to work:** [Code Diff](https://github.com/girldevelopit/gdi-python/compare/main...fall22-overhaul)
 
-**Link to content:** [Blog]()
+**Link to content:** [Blog: Repl.it features you don't know, but should]()
+
+### Day 2: November 16, 2022
+##### Python Curriculum and Reveal.JS Codebase
+
+**Today's Progress**: I finished updating the existing Python workshops (Intro Python, Python 1, Python 2), created a PR and reviewed the changes to check my work. I started researching how we can utilize RevealJS tools and Github Actions to start improving the contribution workflow for GDI curriculum.
+
+**Thoughts:** ...
+
+**Link to work:** [PR](https://github.com/girldevelopit/gdi-python/pull/2)
+
+**Link to content:** [Blog: How to Untrack Files in Git Without Deleting Them]()
+
