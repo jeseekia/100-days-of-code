@@ -22,3 +22,14 @@
 
 **Link to content:** [Blog: How to Untrack Files in Git Without Deleting Them]()
 
+### Day 3: November 17, 2022
+##### Python Curriculum and Reveal.JS Codebase
+
+**Today's Progress**: I merged the repo organization/cleanup changes.
+
+**Thoughts:** I'd like to understand more about what "good" open source project maintenance looks like. I could improve in Git, add GH actions, etc...
+
+**Link to work:** [PR](https://github.com/girldevelopit/gdi-python/pull/2)
+
+**Link to content:** [Post]()
+
