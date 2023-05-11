@@ -29,3 +29,19 @@ Lesson 1 covered the idea of using image recognition models for other types of d
 **Link to work:** [...](<URL>)
 
 **Link to content:** [Blog: ...](<URL>)
+
+
+### Day 3: May 10, 2023
+##### Start image recognition project with Kaggle notebook
+
+**Today's Progress**:
+
+My planned learning path:
+[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+**Thoughts:** 
+Since I finished lesson 1 yesterday, I want to begin working through the book and get started on an image classification project.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [Blog: ...](<URL>)
