@@ -45,3 +45,18 @@ Since I finished lesson 1 yesterday, I want to begin working through the book an
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
 **Link to content:** [Blog: ...](<URL>)
+
+### Day 4: May 11, 2023
+##### FastBook Chapter 1
+
+**Today's Progress**:
+
+My planned learning path:
+[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+**Thoughts:** 
+I have set up my python environment and Jupyter local server so I will work through the book materials for chapter 1 including any exercises that come up. If I finish the projects without working on the image classification example, I will do that as a follow up project. I also like that I saw a long list of Quiz questions at the end of the book. That gives me more to study from.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [Blog: ...](<URL>)
