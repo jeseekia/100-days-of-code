@@ -75,3 +75,18 @@ So far I have been refreshing on the history of Deep Learning and neural network
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
 **Link to content:** [Blog: ...](<URL>)
+
+### Day 6: May 13, 2023
+##### FastBook Chapter 1 cont...
+
+**Today's Progress**:
+
+My planned learning path:
+[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+**Thoughts:** 
+Today I want to make sure I set up some cloud-based notebooks for my projects as I discovered yesterday, even the simple training is a lot with me livestreaming at the same time.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [Blog: ...](<URL>)
