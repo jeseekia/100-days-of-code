@@ -8,14 +8,18 @@
 * [Resources](resources.md)
 
 ## Learning Objectives / Goals
+This is my 4th or 5th attempt at this challenge since I originally began learning to code. I am coding and livestreaming my journey as a part of the challenge so livestreaming is just as important to me as completing my daily material.
 
-* Improve JavaScript expertise
+My planned learning path:
+[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
 * Improve Python expertise
-* Contritube to Open Source coding curriculum
-* New Educational Site
-* Improve in React (TypeScript + nextJS)
-* Learn Data Structures & Algorithms
-* Learn GraphQL
+* Contribute to Open Source ML library / model / project
+* Notion AI/ML Hub
+* Improve in Machine Learning
+* Learn Deep Learning
+* Focus on NLP
+* Implement a research paper
 * Encourage others yayy!!
 
 ## If you've decided to join:

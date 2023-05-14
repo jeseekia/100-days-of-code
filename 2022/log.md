@@ -1,5 +1,16 @@
 # 100 Days Of Code && 100 Days of Content - Log 2022
 
+## Learning Objectives / Goals
+
+* Improve JavaScript expertise
+* Improve Python expertise
+* Contritube to Open Source coding curriculum
+* New Educational Site
+* Improve in React (TypeScript + nextJS)
+* Learn Data Structures & Algorithms
+* Learn GraphQL
+* Encourage others yayy!!
+
 ### Day 1: November 15, 2022
 ##### Python Curriculum and Reveal.JS Codebase
 
