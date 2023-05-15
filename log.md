@@ -90,3 +90,18 @@ Today I want to make sure I set up some cloud-based notebooks for my projects as
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
 **Link to content:** [Blog: ...](<URL>)
+
+### Day 7: May 14, 2023
+##### FastBook Chapter 1 cont...
+
+**Today's Progress**:
+
+My planned learning path:
+[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+**Thoughts:** 
+Yesterday, I got my notebooks running in Google Colabs. I have some other platforms I want to test out, but I've used Colabs for most of my projects recently and it works well to back them up to Github. Yesterday it took an hour for the image classifier example to train and I ended up leaving it to train after stream ended so as I work through the material today I'm going to start the training early and hopefully be able to work with the model during the streaming session.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [Blog: ...](<URL>)
