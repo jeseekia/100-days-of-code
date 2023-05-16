@@ -1,11 +1,26 @@
 # 100 Days Of Code / ML && 100 Days of Content - Log 2023
 
+## Learning Objectives / Goals
+This is my 4th or 5th attempt at this challenge since I originally began learning to code. I am coding and livestreaming my journey as a part of the challenge so livestreaming is just as important to me as completing my daily material.
+
+My planned learning path:
+[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+* Improve Python expertise
+* Contribute to Open Source ML library / model / project
+* Notion AI/ML Hub
+* Improve in Machine Learning
+* Learn Deep Learning
+* Focus on NLP
+* Implement a research paper
+* Encourage others yayy!!
+
+
 ### Day 1: May 8, 2023
 ##### Goals, ML/AI Course selection
 
 **Today's Progress**:
-
-My planned learning path:
+I decided on my planned learning path:
 [fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 **Thoughts:** 
@@ -19,9 +34,7 @@ I feel good about the materials I've chosen for my learning path and plan to pro
 ##### Kaggle setup, intro to image recognition with fast.ai
 
 **Today's Progress**:
-
-My planned learning path:
-[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+I watched the beginning of the Lesson 1 video and set up my Kaggle notebooks.
 
 **Thoughts:** 
 Lesson 1 covered the idea of using image recognition models for other types of data, now I'm super curious about experimenting with other types of data like sound. My first impressions on the course are all positive. I appreciate that there is a focus on top-down learning and using multiple resources to learn the same information was also mentioned. In addition to the video and text materials, I will be following the corresponding book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook).
@@ -35,9 +48,7 @@ Lesson 1 covered the idea of using image recognition models for other types of d
 ##### Start image recognition project with Kaggle notebook
 
 **Today's Progress**:
-
-My planned learning path:
-[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+I finished the video lesson, set up my Python env and got a local Jupyter server running.
 
 **Thoughts:** 
 Since I finished lesson 1 yesterday, I want to begin working through the book and get started on an image classification project.
@@ -50,9 +61,7 @@ Since I finished lesson 1 yesterday, I want to begin working through the book an
 ##### FastBook Chapter 1
 
 **Today's Progress**:
-
-My planned learning path:
-[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+I started reading Lesson 1 from [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook)
 
 **Thoughts:** 
 I have set up my python environment and Jupyter local server so I will work through the book materials for chapter 1 including any exercises that come up. If I finish the projects without working on the image classification example, I will do that as a follow up project. I also like that I saw a long list of Quiz questions at the end of the book. That gives me more to study from.
@@ -65,9 +74,7 @@ I have set up my python environment and Jupyter local server so I will work thro
 ##### FastBook Chapter 1 cont...
 
 **Today's Progress**:
-
-My planned learning path:
-[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+I read more of Lesson 1 about the history of Deep Learning. There are some foundational essays, papers, and books that I am taking note of to look into for later study.
 
 **Thoughts:** 
 So far I have been refreshing on the history of Deep Learning and neural networks. It is helpful to understand how the field has evovled over time and pivotal moments that account for growth and advancement.
@@ -80,9 +87,7 @@ So far I have been refreshing on the history of Deep Learning and neural network
 ##### FastBook Chapter 1 cont...
 
 **Today's Progress**:
-
-My planned learning path:
-[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+I set up Google Colabs to run my [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook) Lesson examples and connected them to a repo on Github.
 
 **Thoughts:** 
 Today I want to make sure I set up some cloud-based notebooks for my projects as I discovered yesterday, even the simple training is a lot with me livestreaming at the same time.
@@ -95,12 +100,23 @@ Today I want to make sure I set up some cloud-based notebooks for my projects as
 ##### FastBook Chapter 1 cont...
 
 **Today's Progress**:
-
-My planned learning path:
-[fast.ai - Practical Deep Learning for Coders](https://course.fast.ai/) -> [Hugging Face - NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) -> [DeepLearning.ai - NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+I read more of the Lesson 1 material from [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook), but could not finish training my model example (image classifier) before the end of my coding session.
 
 **Thoughts:** 
 Yesterday, I got my notebooks running in Google Colabs. I have some other platforms I want to test out, but I've used Colabs for most of my projects recently and it works well to back them up to Github. Yesterday it took an hour for the image classifier example to train and I ended up leaving it to train after stream ended so as I work through the material today I'm going to start the training early and hopefully be able to work with the model during the streaming session.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [Blog: ...](<URL>)
+
+### Day 8: May 15, 2023
+##### Model deployment...
+
+**Today's Progress**:
+
+
+**Thoughts:** 
+I am looking into model deployment with the intention of making training and engaging with my models easier alongside my studying. 
 
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
