@@ -112,11 +112,11 @@ Yesterday, I got my notebooks running in Google Colabs. I have some other platfo
 ### Day 8: May 15, 2023
 ##### Model deployment...
 
-**Today's Progress**:
-
-
 **Thoughts:** 
 I am looking into model deployment with the intention of making training and engaging with my models easier alongside my studying. 
+
+**Today's Progress**:
+I finished reading more of the Lesson 1 material and got into the breakdown of the image classifier example. I decided to wait on deployment since it is literally Lesson 2 and just work through the Lesson 1 material to finish in the next few days. I also used one of my pomodoro breaks to add something new to the AI/ML Notion Hub that I'm building so I will try to make that a habit to help finish it by the end of the month.
 
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
