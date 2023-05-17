@@ -121,3 +121,16 @@ I finished reading more of the Lesson 1 material and got into the breakdown of t
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
 **Link to content:** [Blog: ...](<URL>)
+
+### Day 9: May 16, 2023
+##### Finishing chapter 1
+
+**Thoughts:** 
+As I finish up my chapter 1 reading, I am listening in on Senate hearings on AI Oversight. I would like to incorporate other news and industry updates as it is important to keep up with these items and talk about them within the developer community as well.
+
+**Today's Progress**:
+
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
