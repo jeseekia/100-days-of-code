@@ -129,6 +129,19 @@ I finished reading more of the Lesson 1 material and got into the breakdown of t
 As I finish up my chapter 1 reading, I am listening in on Senate hearings on AI Oversight. I would like to incorporate other news and industry updates as it is important to keep up with these items and talk about them within the developer community as well.
 
 **Today's Progress**:
+I finished watching the hearing and I was able to read through the image classification example explaination and recap it aftwards just to make sure I digested while I was multi-tasking.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 10: May 17, 2023
+##### Finishing chapter 1
+
+**Thoughts:** 
+As I finish up my chapter 1 reading, I am listening in on Senate hearings on Generative AI and Copyright Law. AI News Playlist already has another video added! 
+
+**Today's Progress**:
 
 
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
