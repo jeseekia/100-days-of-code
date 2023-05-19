@@ -139,7 +139,20 @@ I finished watching the hearing and I was able to read through the image classif
 ##### Finishing chapter 1
 
 **Thoughts:** 
-As I finish up my chapter 1 reading, I am listening in on Senate hearings on Generative AI and Copyright Law. AI News Playlist already has another video added! 
+As I finish up my chapter 1 reading, I am listening in on House hearings on Generative AI and Copyright Law. AI News Playlist already has another video added! 
+
+**Today's Progress**:
+I finished watching the House hearings and didn't finish a lot of reading, but I learned about examples of applying image classification to other datasets.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 11: May 18, 2023
+##### Finishing chapter 1
+
+**Thoughts:** 
+Today I'm proud of the progress I've made so far. As I go into another 10 day round, I would like to improve my pacing a little bit on finishing the reading materials. My goal is to finish chapter 1 today.
 
 **Today's Progress**:
 
