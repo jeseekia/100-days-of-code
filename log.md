@@ -155,6 +155,29 @@ I finished watching the House hearings and didn't finish a lot of reading, but I
 Today I'm proud of the progress I've made so far. As I go into another 10 day round, I would like to improve my pacing a little bit on finishing the reading materials. My goal is to finish chapter 1 today.
 
 **Today's Progress**:
+I got to see some other common DL examples including Object Detection, Sentiment Analysis, and a Recommendation System through the reading.
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 12: May 19, 2023
+##### Finishing chapter 1
+
+**Thoughts:** 
+In addition to the Image Recognition example, I would like to adapt all of the basic DL use cases that were shown in chapter 1 of the book into projects.
+
+"Lab"
+- Object Detection
+- Recommendation System
+
+"Mini-project
+- Image Classifier
+
+"Project"
+- Sentiment Analysis
+
+**Today's Progress**:
 
 
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
