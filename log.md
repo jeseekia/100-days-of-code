@@ -178,8 +178,23 @@ In addition to the Image Recognition example, I would like to adapt all of the b
 - Sentiment Analysis
 
 **Today's Progress**:
+I finished reading chapter 1!
+
+**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 13: May 20, 2023
+##### Starting 
+
+**Thoughts:** 
+I'm going to focus on deployment and looking forward to trying some newer ML tools that I've been eyeing for a minute.
+
+
+**Today's Progress**:
 
 
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
 **Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
