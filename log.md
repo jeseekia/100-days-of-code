@@ -185,11 +185,23 @@ I finished reading chapter 1!
 **Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
 
 ### Day 13: May 20, 2023
-##### Starting 
+##### Starting Lesson 2
 
 **Thoughts:** 
 I'm going to focus on deployment and looking forward to trying some newer ML tools that I've been eyeing for a minute.
 
+**Today's Progress**:
+I was able to finish most of the lesson 2 video and got a model deployed and running through Hugging Face Spaces and Gradio.
+
+**Link to work:** [My first deployed model (cat/dog image classifier).](https://huggingface.co/spaces/metadevgirl/mdg)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 14: May 21, 2023
+##### Lesson 2 Video and starting Chapter 2 of the fast.ai book
+
+**Thoughts:** 
+I feel pretty accomplished to have an understanding of model deployment with Hugging Face and Gradio and feel more empowered to work on exercises and projects now.
 
 **Today's Progress**:
 
@@ -197,4 +209,3 @@ I'm going to focus on deployment and looking forward to trying some newer ML too
 **Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
 
 **Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
-
