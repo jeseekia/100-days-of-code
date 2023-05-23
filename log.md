@@ -204,8 +204,21 @@ I was able to finish most of the lesson 2 video and got a model deployed and run
 I feel pretty accomplished to have an understanding of model deployment with Hugging Face and Gradio and feel more empowered to work on exercises and projects now.
 
 **Today's Progress**:
+I finished the Lesson 2 video.
+
+**Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 15: May 22, 2023
+##### Reading Chapter 2 of the fast.ai book
+
+**Thoughts:** 
+It was exciting to see that there is an API endpoint for querying the model after deploying with Hugging Face Spaces and Gradio. I'm itching to build that into a project, but taking the time to cover the book materials and dig deeper on deployment before I start anymore training.
+
+**Today's Progress**:
 
 
-**Link to work:** [Kaggle notebook adapted to my own example.](https://www.kaggle.com/metadevgirl/not-streamer)
+**Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
 
 **Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
