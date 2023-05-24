@@ -217,6 +217,20 @@ I finished the Lesson 2 video.
 It was exciting to see that there is an API endpoint for querying the model after deploying with Hugging Face Spaces and Gradio. I'm itching to build that into a project, but taking the time to cover the book materials and dig deeper on deployment before I start anymore training.
 
 **Today's Progress**:
+I finished most of the introductory reading.
+
+**Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 16: May 23, 2023
+##### Reading Chapter 2 of the fast.ai book
+
+**Thoughts:** 
+I'm feeling good about my course pace, but ready to start publishing more content. Today is a day where I want to focus on a shorter learning session so I leave some fuel in the tank to get some of the work done for my blog and podcast publishings. I also have a Git & Github talk coming up in 2 weeks and I want to film/edit some supporting materials and have them ready at the talk. Content creation (teaching and documenting my journey) are just as important to me as getting through the learning so I want to make sure I prioritize it along the way.
+Today I'm getting into the technical section of the reading and time-boxing myself so I can work on some of my content for the week.
+
+**Today's Progress**:
 
 
 **Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
