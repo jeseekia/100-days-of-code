@@ -231,6 +231,19 @@ I'm feeling good about my course pace, but ready to start publishing more conten
 Today I'm getting into the technical section of the reading and time-boxing myself so I can work on some of my content for the week.
 
 **Today's Progress**:
+I finished the bear classifier training example.
+
+**Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 17: May 24, 2023
+##### Reading Chapter 2 of the fast.ai book
+
+**Thoughts:** 
+Today will be another example of deploying a trained model. This time I was able to train through Google Colabs so I will be looking into how to export the model similar to what I did in Kaggle during the video lesson. 
+
+**Today's Progress**:
 
 
 **Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
