@@ -244,6 +244,19 @@ I finished the bear classifier training example.
 Today will be another example of deploying a trained model. This time I was able to train through Google Colabs so I will be looking into how to export the model similar to what I did in Kaggle during the video lesson. 
 
 **Today's Progress**:
+I was able to get the model exported and downloaded from Colabs and close to finishing the chapter 2 reading.
+
+**Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 18: May 25, 2023
+##### Finishing Chapter 2 of the fast.ai book
+
+**Thoughts:** 
+I'm focused on wrapping up the chapter 2 reading so I can move on to a project and start Week 3 material.
+
+**Today's Progress**:
 
 
 **Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
