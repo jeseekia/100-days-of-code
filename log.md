@@ -264,7 +264,20 @@ I finished reading chapter 2.
 **Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
 
 ### Day 19: May 26, 2023
-##### Finishing Chapter 2 of the fast.ai book
+##### Setting up a blog source via RSS
+
+**Thoughts:** 
+I'm researching how to curate my data for an image recognizer and wiring up my new blog. Maybe I'll make my own RSS feed, but I need to find a framework/CMS to manage it.
+
+**Today's Progress**:
+I decided on using an RSS feed as the source for my blog content. I was able to get it setup and hosted through GH pages as well as use Zapier to integrate it with Ghost for my blogging platform.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 20: May 27, 2023
+##### Working out the kinks with my RSS feed integration and finishing my hw blog
 
 **Thoughts:** 
 I'm focused on wrapping up the chapter 2 reading so I can move on to a project and start Week 3 material.
@@ -272,6 +285,6 @@ I'm focused on wrapping up the chapter 2 reading so I can move on to a project a
 **Today's Progress**:
 
 
-**Link to work:** [My first deployed model (cat/dog image classifier).](https://metadevgirl-mdg.hf.space/)
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
 
 **Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
