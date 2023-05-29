@@ -283,6 +283,19 @@ I decided on using an RSS feed as the source for my blog content. I was able to 
 I'm focused on wrapping up the chapter 2 reading so I can move on to a project and start Week 3 material.
 
 **Today's Progress**:
+I covered the RSS 2.0 spec and best practices.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 21: May 28, 2023
+##### Reading Chapter 3 of the fast.ai book
+
+**Thoughts:** 
+I'm focused on wrapping up the chapter 3 reading so I can move on to a project and start Week 3 material.
+
+**Today's Progress**:
 
 
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
