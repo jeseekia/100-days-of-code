@@ -296,6 +296,19 @@ I covered the RSS 2.0 spec and best practices.
 I'm focused on wrapping up the chapter 3 reading so I can move on to a project and start Week 3 material.
 
 **Today's Progress**:
+I covered the intro material for the ethics chapter of the fast.ai book.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+
+### Day 22: May 29, 2023
+##### Reading Chapter 3 of the fast.ai book
+
+**Thoughts:** 
+I'm focused on wrapping up the chapter 3 reading so I can move on to a project and start Week 3 material.
+
+**Today's Progress**:
 
 
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
