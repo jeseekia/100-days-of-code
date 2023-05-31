@@ -309,8 +309,21 @@ I covered the intro material for the ethics chapter of the fast.ai book.
 I'm focused on wrapping up the chapter 3 reading so I can move on to a project and start Week 3 material.
 
 **Today's Progress**:
+I read a bit but I ended up watching the State of GPT (Added to the AI news section on my youtube channel --v)
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 23: May 30, 2023
+##### Reading Chapter 3 of the fast.ai book
+
+**Thoughts:** 
+I'm focused on wrapping up the chapter 3 reading so I can move on to a project and start Week 3 material.
+
+**Today's Progress**:
 
 
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
 
-**Link to content:** [A YouTube Playlist for AI News: ](https://youtube.com/playlist?list=PLl-Cuf9URJH6PfhDAnNy_2eRdHaZ6ABSM)
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
