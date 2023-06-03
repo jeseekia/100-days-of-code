@@ -340,3 +340,16 @@ I'm focused on wrapping up the chapter 3 reading so I can move on to a project a
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
 
 **Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 25: June 1, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+
+
+**Today's Progress**:
+I caught Training GPT from scratch with nanoGPT, but I was late so I still want to rewatch the recording.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
