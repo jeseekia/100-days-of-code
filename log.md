@@ -358,10 +358,36 @@ I caught Training GPT from scratch with nanoGPT, but I was late so I still want 
 ##### Training GPT from scratch with nanoGPT
 
 **Thoughts:** 
-
+I caught Training GPT from scratch with nanoGPT, but I was late so I still want to rewatch the recording.
 
 **Today's Progress**:
-I caught Training GPT from scratch with nanoGPT, but I was late so I still want to rewatch the recording.
+I reviewed Training GPT from scratch with nanoGPT.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 27: June 3, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+I reviewed Training GPT from scratch with nanoGPT yesterday. Today I'm looking forward to setting up my own code base and training experiments with Weights & Biases.
+
+**Today's Progress**:
+I finished most of "Let's Build GPT from Scratch" by the author of the nanoGPT project.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 28: June 4, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+I watched a lot of the video lecture for the nanoGPT repo and although it was insightful, I didn't internalize a lot of it. Today I'm going to find a new approach to dive into the material.
+
+**Today's Progress**:
+
 
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
 
