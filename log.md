@@ -387,6 +387,19 @@ I finished most of "Let's Build GPT from Scratch" by the author of the nanoGPT p
 I watched a lot of the video lecture for the nanoGPT repo and although it was insightful, I didn't internalize a lot of it. Today I'm going to find a new approach to dive into the material.
 
 **Today's Progress**:
+I did some high level research on my next 2 projects.
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 29: June 5, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+I'm gathering thoughts on starting my sentiment analysis and image classification projects.
+
+**Today's Progress**:
 
 
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
