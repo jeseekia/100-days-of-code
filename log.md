@@ -400,6 +400,19 @@ I did some high level research on my next 2 projects.
 I'm gathering thoughts on starting my sentiment analysis and image classification projects.
 
 **Today's Progress**:
+I got a MongoDB instance running in the cloud and I got Compass setup on my MacBook with an empty collection for twitch chats
+
+**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+
+**Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 30: June 6, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+I'm focusing on getting data flowing to the DB.
+
+**Today's Progress**:
 
 
 **Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
