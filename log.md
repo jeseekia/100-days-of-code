@@ -413,8 +413,21 @@ I got a MongoDB instance running in the cloud and I got Compass setup on my MacB
 I'm focusing on getting data flowing to the DB.
 
 **Today's Progress**:
+I got my ingestion service running and deployed to render, but there is data duplication in my DB that I need to troubleshoot.
 
-
-**Link to work:** [A custom RSS feed for my blog.](https://jeseekia.github.io/metadevgirl-rss/feed.xml)
+**Link to work:** [Chat Feels - Data ingestion from Twitch chat to MongoDB](https://github.com/jeseekia/chat-feels)
 
 **Link to content:** [A YouTube Playlist for the State of AI: ](https://youtube.com/playlist?list=PLl-Cuf9URJH7a62Cr5-Efj9D480dsExeV)
+
+### Day 31: June 7, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+I am unsure why I am getting duplicate messages from my ingestion service so I want to troubleshoot that.
+
+**Today's Progress**:
+
+
+**Link to work:** [Chat Feels - Data ingestion from Twitch chat to MongoDB](https://github.com/jeseekia/chat-feels)
+
+**Link to content:** [A newsletter to receive resources and updates from me: ](https://mailchi.mp/metadevgirl/metadevgirl)
