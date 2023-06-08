@@ -426,7 +426,7 @@ I got my ingestion service running and deployed to render, but there is data dup
 I am unsure why I am getting duplicate messages from my ingestion service so I want to troubleshoot that.
 
 **Today's Progress**:
-
+I worked out project goals and other technical components needed alongside building out the README.md and went with running the project locally for now to prevent data duplication. Render is struggling with the deployment and there is a reference error with the MongoDB client that may be causing the issues. This is something to follow up on next. In the meantime I need to consider my classifications and need 100 examples per category.
 
 **Link to work:** [Chat Feels - Data ingestion from Twitch chat to MongoDB](https://github.com/jeseekia/chat-feels)
 
