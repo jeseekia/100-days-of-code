@@ -431,3 +431,16 @@ I worked out project goals and other technical components needed alongside build
 **Link to work:** [Chat Feels - Data ingestion from Twitch chat to MongoDB](https://github.com/jeseekia/chat-feels)
 
 **Link to content:** [A newsletter to receive resources and updates from me: ](https://mailchi.mp/metadevgirl/metadevgirl)
+
+### Day 32: June 8, 2023
+##### Training GPT from scratch with nanoGPT
+
+**Thoughts:** 
+I am unsure why I am getting duplicate messages from my ingestion service so I want to troubleshoot that.
+
+**Today's Progress**:
+
+
+**Link to work:** [Chat Feels - Data ingestion from Twitch chat to MongoDB](https://github.com/jeseekia/chat-feels)
+
+**Link to content:** [A newsletter to receive resources and updates from me: ](https://mailchi.mp/metadevgirl/metadevgirl)
