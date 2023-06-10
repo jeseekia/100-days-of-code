@@ -439,8 +439,15 @@ I worked out project goals and other technical components needed alongside build
 I am unsure why I am getting duplicate messages from my ingestion service so I want to troubleshoot that.
 
 **Today's Progress**:
-
+I researched async/await keywords and came up with a list of items to potentially solve my deployment/db client connection issues.
 
 **Link to work:** [Chat Feels - Data ingestion from Twitch chat to MongoDB](https://github.com/jeseekia/chat-feels)
 
 **Link to content:** [A newsletter to receive resources and updates from me: ](https://mailchi.mp/metadevgirl/metadevgirl)
+
+### Day 33: June 9, 2023
+##### Learning offline
+
+**Thoughts**
+In the midst of a busy day preparing for my son's birthday away from home ans ill-prepared I still want to keep my commitment as ive been consistent this far.
+I will focus on reading some research tonight and skip my stream, but my streak remains.
