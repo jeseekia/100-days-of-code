@@ -449,5 +449,25 @@ I researched async/await keywords and came up with a list of items to potentiall
 ##### Learning offline
 
 **Thoughts**
-In the midst of a busy day preparing for my son's birthday away from home ans ill-prepared I still want to keep my commitment as ive been consistent this far.
+In the midst of a busy day preparing for my son's birthday away from home and ill-prepared (without even my laptop) I still want to keep my commitment as I've been consistent thus far.
 I will focus on reading some research tonight and skip my stream, but my streak remains.
+
+**Today's Progress**:
+I read part of Attention is all you need, but the reality of exhaustion made it more difficult than normal to process the information so I will be continuing this read in the future as it's a crucial one in NLP.
+
+### Day 34: June 11, 2023
+##### Learning offline
+
+**Thoughts**
+I missed a day yesterday amongst the busy day and a much-needed decompress. I do wish I had prepared better to make it easier to get my hour in, but I got a good reminder why planning is so important.
+Planning is more for the unexpected than the expected, at least for me. Every time I think I can get by without it, something unanticipated happens and a lack of planning beforehand makes it harder to adjust in real-time without making compromises that weren't really necessary.
+If I had planned the weekend more thoroughly I could've done everything I wanted without sacrificing my hour or my downtime.
+That said, especially as a new mom on my 1st birthday and getting back into pursuing serious study for the 1st time in years, I give myself grace.
+It's really important for me to strike a balance in 100DaysOfCode that I can carry over into my University studies for the next 6-8 years.
+Better to work the kinks out now because life will always happen without a doubt and I don't want to let my education suffer or vice versa.
+Today I am continuing my reading and I'm already digesting the information a lot better.
+I decided to get into highlighting and writing notes in the document as a way to summarize for myself as I go.
+I'm eager to read the new Falcon paper, but it's important to me to ground myself in the history and context of Transformers 1st before I jump elsewhere.
+I also have a bad habit of switching tasks without completing others and I'm working that out of myself along with my tendency to procrastinate.
+This reflection feels appropriate for blogging, and gves me some inspiration for how to get that work going regularly as well.
+I think I'll add it as my next post and do more reflection moments like this in the future.
