@@ -471,3 +471,14 @@ I'm eager to read the new Falcon paper, but it's important to me to ground mysel
 I also have a bad habit of switching tasks without completing others and I'm working that out of myself along with my tendency to procrastinate.
 This reflection feels appropriate for blogging, and gves me some inspiration for how to get that work going regularly as well.
 I think I'll add it as my next post and do more reflection moments like this in the future.
+
+**Today's Progress**
+I covered more of the paper, but I did not finish.
+
+### Day 34: June 12, 2023
+##### Learning offline
+
+**Thoughts**
+I'm slowly working my way into the week, but planning on getting some more focus time done and maybe summarize AIAYN. I know a lot of summaries and videos already exist, but I feel like this is good practice for myself as I get more comfortable with digesting research. This is also a great prep to segway back into the nanoGPT training which covers all of the core model architecture.
+
+**Today's Progress**:
