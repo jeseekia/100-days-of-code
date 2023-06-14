@@ -482,7 +482,7 @@ I covered more of the paper, but I did not finish.
 I'm slowly working my way into the week, but planning on getting some more focus time done and maybe summarize AIAYN. I know a lot of summaries and videos already exist, but I feel like this is good practice for myself as I get more comfortable with digesting research. This is also a great prep to segway back into the nanoGPT training which covers all of the core model architecture.
 
 **Today's Progress**:
-
+I still didng't finish the paper, but I feel good about making incremental progress on learning.
 
 ### Day 35: June 13, 2023
 ##### Learning offline
