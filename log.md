@@ -491,3 +491,11 @@ I still didng't finish the paper, but I feel good about making incremental progr
 Finishing up my reading as I work my way back into streams and working on my project this week.
 
 **Today's Progress**:
+
+### Day 36: June 14, 2023
+##### Learning offline
+
+**Thoughts**
+Finishing up my reading as I work my way back into streams and working on my project this week.
+I decifed to take a final night offline as this is my son's birthday, but look forward to returning to community for the support and accountability.
+**Today's Progress**:
