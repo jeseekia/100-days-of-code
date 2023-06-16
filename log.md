@@ -499,3 +499,11 @@ Finishing up my reading as I work my way back into streams and working on my pro
 Finishing up my reading as I work my way back into streams and working on my project this week.
 I decifed to take a final night offline as this is my son's birthday, but look forward to returning to community for the support and accountability.
 **Today's Progress**:
+
+### Day 37: June 15, 2023
+##### Learning offline
+
+**Thoughts**
+A recent conversation on Electic Vehicle development last week during our trainX.ai podcast got me back into the idea of building an ML project for an automotive application.
+I once studied Mechanical Engineering, had a brief stent in an engine diagnostics research lab, and worked on a connected vehicle platform.
+At one point I wanted to merge these interests and I'm open to exploring some problems and projects in this space.
