@@ -507,3 +507,11 @@ I decifed to take a final night offline as this is my son's birthday, but look f
 A recent conversation on Electic Vehicle development last week during our trainX.ai podcast got me back into the idea of building an ML project for an automotive application.
 I once studied Mechanical Engineering, had a brief stent in an engine diagnostics research lab, and worked on a connected vehicle platform.
 At one point I wanted to merge these interests and I'm open to exploring some problems and projects in this space.
+
+
+### Day 38: June 16, 2023
+##### Learning offline
+
+**Thoughts**
+I'm working in keeping up some meaningful work. I've been hesitant to work on certain items if I cannot share them on stream, but its time to consider expanding my offline learning tasks.
+For now I'm interested in exploring some EV resources I received recently.
