@@ -515,3 +515,10 @@ At one point I wanted to merge these interests and I'm open to exploring some pr
 **Thoughts**
 I'm working in keeping up some meaningful work. I've been hesitant to work on certain items if I cannot share them on stream, but its time to consider expanding my offline learning tasks.
 For now I'm interested in exploring some EV resources I received recently.
+
+### Day 39: June 17, 2023
+##### Learning offline
+
+**Thoughts**
+I'm feeling rejuvenated and ready to start a new week, but I need to consider an update to my working schedule.
+My goal is to reset my work stations before the week starts and outline some YouTube videos to talk about some things I've learned so far.
