@@ -522,3 +522,13 @@ For now I'm interested in exploring some EV resources I received recently.
 **Thoughts**
 I'm feeling rejuvenated and ready to start a new week, but I need to consider an update to my working schedule.
 My goal is to reset my work stations before the week starts and outline some YouTube videos to talk about some things I've learned so far.
+
+### Day 40: June 29, 2023
+##### Back to streams!
+
+**Thoughts**
+I felt like I wanted to start off Day 40 a bit more official returning to streams and needed a break to reat and reorganize.
+I was off longer than anticipated, but had the opportunity to get some todo items off my playe and off my mind.
+
+**Today's Progress**
+Today I read into some AI news and hosted Episode 4 of our trainX.ai podcast.
