@@ -532,3 +532,15 @@ I was off longer than anticipated, but had the opportunity to get some todo item
 
 **Today's Progress**
 Today I read into some AI news and hosted Episode 4 of our trainX.ai podcast.
+
+### Day 41: July 3, 2023
+##### Getting back into student mode - Learning offline
+**Thoughts**
+Today has been a planning day for me. I reassessed my goals and timeline with a day 100 target in mind.
+I feel equipped to power through a 60 day sprint from today until August 31.
+For the sake of consistency and completion of the challenge I am embracing offline learning more as it has beeb hard to find a good time for streams around baby boy's changing schedule.
+I feel like I can see the finish line now and feel a sense of urgency to dig back in.
+Today I will read about how people digest and apply research papers in order to begin to form my own process.
+I'm struggling to get through longer papers and get the feeling there's a better way to approach it than trying to read 40 page papers at the end of an exhausting day. 😓
+
+**Today's Progress**
