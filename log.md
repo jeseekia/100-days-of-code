@@ -535,6 +535,7 @@ Today I read into some AI news and hosted Episode 4 of our trainX.ai podcast.
 
 ### Day 41: July 3, 2023
 ##### Getting back into student mode - Learning offline
+
 **Thoughts**
 Today has been a planning day for me. I reassessed my goals and timeline with a day 100 target in mind.
 I feel equipped to power through a 60 day sprint from today until August 31.
@@ -548,11 +549,17 @@ I found a lot of useful videos with some strategies to consider and freated a ne
 
 **Link to Content:** [Tips for Reading Research Papers](https://youtube.com/playlist?list=PLl-Cuf9URJH5DHeqoRVHyDnH-WU4DbKRz)
 
-###Day 42: July 4, 2023
-#####Resources for reading research papers
+### Day 42: July 4, 2023
+##### Resources for reading research papers
 
 **Thoughts**
 Based on some of the videos I found yesterday, I was able to start on a new notion page summarizing them as a resource.
 I am putting together some of tge key takeaways and publishing the new page in the AI/ML Hub.
 
 **Link to Content:** [Tips for Reading Research Papers](https://www.notion.so/metadevgirl/Tips-for-Reading-Research-Papers-9cfd37b7ea3b4cb283322f7cbcc94756?pvs=4)
+
+### Day 42: July 5, 2023
+##### Reading research papers more effectively?
+
+**Thoughts**
+I'm revisiting reading and considering creatong some paper summaries after getting a little guidance on tackling research papers.
