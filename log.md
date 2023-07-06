@@ -544,3 +544,15 @@ Today I will read about how people digest and apply research papers in order to 
 I'm struggling to get through longer papers and get the feeling there's a better way to approach it than trying to read 40 page papers at the end of an exhausting day. 😓
 
 **Today's Progress**
+I found a lot of useful videos with some strategies to consider and freated a new resource playlist on YouTube.
+
+**Link to Content:** [Tips for Reading Research Papers](https://youtube.com/playlist?list=PLl-Cuf9URJH5DHeqoRVHyDnH-WU4DbKRz)
+
+###Day 42: July 4, 2023
+#####Resources for reading research papers
+
+**Thoughts**
+Based on some of the videos I found yesterday, I was able to start on a new notion page summarizing them as a resource.
+I am putting together some of tge key takeaways and publishing the new page in the AI/ML Hub.
+
+**Link to Content:** [Tips for Reading Research Papers](https://www.notion.so/metadevgirl/Tips-for-Reading-Research-Papers-9cfd37b7ea3b4cb283322f7cbcc94756?pvs=4)
