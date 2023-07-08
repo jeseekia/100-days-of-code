@@ -558,8 +558,23 @@ I am putting together some of tge key takeaways and publishing the new page in t
 
 **Link to Content:** [Tips for Reading Research Papers](https://www.notion.so/metadevgirl/Tips-for-Reading-Research-Papers-9cfd37b7ea3b4cb283322f7cbcc94756?pvs=4)
 
-### Day 42: July 5, 2023
+### Day 43: July 5, 2023
 ##### Reading research papers more effectively?
 
 **Thoughts**
 I'm revisiting reading and considering creatong some paper summaries after getting a little guidance on tackling research papers.
+
+### Day 44: July 6, 2023
+##### Catching up on AI news
+
+**Thoughts**
+I really want to get tgroygh a backlog of articles and blogs piling up in our Discord channel.
+I got through a lot last week, and am picking back up today.
+
+### Day 45: July 7, 2023
+##### Project goals for the 2nd half of the challenge
+
+**Thoughts**
+I feel like it's a good time to reevaluate my goals and set up a plan leading up to the end of the challenge.
+I realized that I had a goal of feeling comfortable to implement a paper at the end amongst some more specific goals that I outlined.
+I mighy streamline a bit and maybe deprioritize some things to get the most out of my time.
